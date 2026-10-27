@@ -1,0 +1,5 @@
+python-dotenv        # load your secret key from a .env file
+openai               # the client — we point it at Groq's free API
+requests             # fetch web pages (the scraper)
+beautifulsoup4       # clean up the HTML we fetched
+gradio               # turn your function into a chat app + public link

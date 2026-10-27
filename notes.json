@@ -1,0 +1,34 @@
+[
+  {
+    "topic": "Large language model",
+    "finding": "Large language models (LLMs) are neural network models trained on massive text corpora to perform natural language processing tasks such as generation, summarization, translation, and analysis."
+  },
+  {
+    "topic": "Large language model",
+    "finding": "LLMs are typically based on the transformer neural network architecture, which uses self‑attention mechanisms to process sequences in parallel and scale effectively with data and compute."
+  },
+  {
+    "topic": "Large language model",
+    "finding": "LLMs can suffer from biased or inaccurate outputs due to training data quality; benchmark evaluations focus on reasoning, factual accuracy, alignment, and safety, and tool‑harnesses can add memory and external capabilities."
+  },
+  {
+    "topic": "Anthropic vs OpenAI difference",
+    "finding": "Anthropic operates as a public benefit corporation emphasizing AI safety and public good, whereas OpenAI is a capped‑profit (for‑profit) company focused on broad AI advancement and commercial product releases."
+  },
+  {
+    "topic": "Python",
+    "finding": "Python was created by Guido van Rossum"
+  },
+  {
+    "topic": "Cats",
+    "finding": "Cats sleep 12 to 16 hours a day"
+  },
+  {
+    "topic": "Restart test",
+    "finding": "I survived a restart."
+  },
+  {
+    "topic": "Restart test",
+    "finding": "The web app survives restarts."
+  }
+]
